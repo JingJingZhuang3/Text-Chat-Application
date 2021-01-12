@@ -1,0 +1,37 @@
+[LIST:SUCCESS]
+1    stones.cse.buffalo.edu             128.205.36.46       4545    
+[LIST:END]
+[LIST:SUCCESS]
+1    stones.cse.buffalo.edu             128.205.36.46       4545    
+2    embankment.cse.buffalo.edu         128.205.36.35       5000    
+3    highgate.cse.buffalo.edu           128.205.36.33       5499    
+4    euston.cse.buffalo.edu             128.205.36.34       5701    
+[LIST:END]
+[RELAYED:SUCCESS]
+msg from:128.205.36.33, to:128.205.36.46
+[msg]:THIS IS HIIGHGATE.
+[RELAYED:END]
+[RELAYED:SUCCESS]
+msg from:128.205.36.34, to:128.205.36.46
+[msg]:THIS IS EUSTON.
+[RELAYED:END]
+[RELAYED:SUCCESS]
+msg from:128.205.36.35, to:128.205.36.46
+[msg]:THIS IS EMBANKMENT
+[RELAYED:END]
+[LIST:SUCCESS]
+1    stones.cse.buffalo.edu             128.205.36.46       4545    
+2    embankment.cse.buffalo.edu         128.205.36.35       5000    
+3    highgate.cse.buffalo.edu           128.205.36.33       5499    
+4    euston.cse.buffalo.edu             128.205.36.34       5701    
+[LIST:END]
+[STATITSICS:ERROR]
+[STATITSICS:END]
+[STATISTIC:ERROR]
+[STATISTIC:END]
+[STATISTICS:SUCCESS]
+1    stones.cse.buffalo.edu             0       3       logged-in
+2    embankment.cse.buffalo.edu         1       0       logged-in
+3    highgate.cse.buffalo.edu           1       0       logged-in
+4    euston.cse.buffalo.edu             1       0       logged-in
+[STATISTICS:END]

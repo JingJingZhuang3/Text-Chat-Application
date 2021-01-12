@@ -1,0 +1,37 @@
+[LOGIN:SUCCESS]
+[LOGIN:END]
+[IP:SUCCESS]
+IP:128.205.36.46
+[IP:END]
+[LIST:SUCCESS]
+1    stones.cse.buffalo.edu             128.205.36.46       5701    
+[LIST:END]
+[RECEIVED:SUCCESS]
+msg from:128.205.36.34
+[msg]:Hi, MY FRIEND.
+[RECEIVED:END]
+[LIST:SUCCESS]
+1    stones.cse.buffalo.edu             128.205.36.46       5701    
+[LIST:END]
+[REFREH:ERROR]
+[REFREH:END]
+[REFRESH:SUCCESS]
+[REFRESH:END]
+[LIST:SUCCESS]
+1    stones.cse.buffalo.edu             128.205.36.46       5701    
+2    euston.cse.buffalo.edu             128.205.36.34       5701    
+[LIST:END]
+[SEND:SUCCESS]
+[SEND:END]
+[LIST:SUCCESS]
+1    stones.cse.buffalo.edu             128.205.36.46       5701    
+2    euston.cse.buffalo.edu             128.205.36.34       5701    
+[LIST:END]
+[SEND:SUCCESS]
+[SEND:END]
+[LIST:SUCCESS]
+1    stones.cse.buffalo.edu             128.205.36.46       5701    
+2    euston.cse.buffalo.edu             128.205.36.34       5701    
+[LIST:END]
+[EXIT:SUCCESS]
+[EXIT:END]

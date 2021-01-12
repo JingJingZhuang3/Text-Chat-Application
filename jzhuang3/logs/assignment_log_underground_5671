@@ -1,0 +1,25 @@
+[LOGIN:SUCCESS]
+[LOGIN:END]
+[LIST:SUCCESS]
+1    underground.cse.buffalo.edu        128.205.36.36       5671    
+[LIST:END]
+[REFRESH:SUCCESS]
+[REFRESH:END]
+[LIST:SUCCESS]
+1    underground.cse.buffalo.edu        128.205.36.36       5671    
+2    euston.cse.buffalo.edu             128.205.36.34       5701    
+[LIST:END]
+[LOGOUT:SUCCESS]
+[LOGOUT:END]
+[SEND 128.205.36.36:ERROR]
+[SEND 128.205.36.36:END]
+[RECEIVED:SUCCESS]
+msg from:128.205.36.34
+[msg]:HELLOHELOO HELOO HEUHSO
+msg from:128.205.36.34
+[msg]:THIS IS SECOND MEDDAGEMESSAGE.
+[RECEIVED:END]
+[LOGIN:SUCCESS]
+[LOGIN:END]
+[EXIT:SUCCESS]
+[EXIT:END]

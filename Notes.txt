@@ -1,0 +1,111 @@
+The first line of output of all the commands should declare whether it was 
+successfully executed or it failed.
+*If the command was successful, use the following format string:
+- ("[%s:SUCCESS]\n", command_str) //where command_str is the command inputted 
+without its arguments
+*If the command failed with error, use the following format string:
+- ("[%s:ERROR]\n", command_str) //where command_str is the command inputted without its arguments
+
+stones, highgate, embankment, underground, and euston
+
+Server/Client shell command:
+- AUTHOR: print policy
+- IP: print external IP address or ERROR
+- PORT: print port number
+- LIST: print the logged-in client table
+	The output should display the hostname, IP address, 
+	and the listening port numbers, 
+	sorted by their listening port numbers,
+ 	in increasing order. E.g.
+
+Server shell command:
+- STATISTICS: Display登陆过且没EXIT的client table
+	The output should display the hostname, #messages-sent, 
+	#messages-received, and the current status: logged-in/logged-out 
+	depending on whether the client is currently logged-in or not, 
+	sorted by their listening port numbers, in increasing order. E.g.,
+- BLOCKED <client-ip>: Display被<client-ip>拉黑的clients table
+	The output should display the hostname, IP address, 
+	and the listening port numbers, sorted by their listening port numbers,
+	in increasing order.
+	注意：input IP必须vaild且是存在的
+
+信息传递format：
+- ("msg from:%s, to:%s\n[msg]:%s\n", from-client-ip, to-client-ip, msg)
+- Broadcast message, <to-client-ip> will be 255.255.255.255
+- For the purposes of printing/logging, use command_str: RELAYED
+
+client应该有：
+- 自己的IP
+- 自己hostname
+- port_number
+- login状态
+- 发了多少消息
+- 收到多少消息
+- block_list=[hostname, ip, port],[...],[...]
+- msg_buffer=[from_ip, rcv_ip, msg],[...],[...]
+
+Client shell command: (./PA1 c <port>并没有connect to the server, 只有Login时候才会链上)
+- LOGIN <server-ip> <server-port>:login to the server located at ip address: <server-ip> 
+	listening on port: <server-port>
+	*On successful registration, the server responds with:
+	1. List of all currently logged-in clients. The client should store this list 
+	for later display and use.
+	2. All the stored/buffered messages for this client in the order they were 
+	received at the server.  Each of these messages will trigger an 
+	*[EVENT]: Message Received
+	- ("msg from:%s\n[msg]:%s\n", client-ip, msg)
+	- Note that <client-ip> here is the IP address of the original sender, 
+		not of the relaying server. For the purposes of printing/logging, 
+		use command_str: RECEIVED
+	*client未登录的情况下只能用以下几个command: 
+	- LOGIN, EXIT, IP, PORT, and AUTHOR, or receive packets
+- REFRESH: get updated list of current logged-in client from the server
+- SEND <client-ip> <msg>: msg length < 256bytes & valid ASCII characters
+	- send to logged-in user only, 这会用到login时候server反馈给你的client_list 
+- BROADCAST <msg>: Send <msg> to all logged-in clients.
+	This should be a server-assisted broadcast. The sending client should 
+	send only one message to the server, indicating it is a broadcast. 
+	The server then forwards/relays this message to all the currently 
+	logged-in clients and stores/buffers the message for the others.
+	注:发广播的client不会收到这个<msg> back。
+- BLOCK <client-ip>: 屏蔽<client-ip>发的所有消息，server应该知道这个屏蔽，
+	server不会储存被屏蔽的client的消息。被屏蔽的client不会意识到被对方
+	屏蔽了，所以ta发消息还是可以照常发。
+	注意：IP必须vaild且存在，若是已经被屏蔽的client-ip该如何处理(?)
+- UNBLOCK <client-ip>: 解除屏蔽，server得知道
+	注意：IP必须vaild且存在，若是没被屏蔽又如何解除屏蔽呢？
+- LOGOUT: 退出登录但您的application不应该退出，而应该继续接受登录、退出、
+	IP、端口和作者命令。
+	注意(最好问问TA):
+	- LOGOUT does NOT reset the statistic counters (see STATISTICS command 
+		in section 5.5).
+	- LOGOUT does NOT unblock any clients blocked by this client.
+	- LOGOUT does NOT change the blocked/unblocked status of this 
+		client on the server.
+- EXIT: Logout from the server (if logged-in) and terminate the application with
+	exit code 0. This should delete all the state for this client on the server. 
+	You can assume that an EXITed client will never start again.
+	这是否存在statistics里？还是除去？若存在status是否改成logged-out?
+ ______
+|      |
+| TEST:|-------> 【buffer的test没过】
+|______|
+- ./grader/grader_controller -c grader/grader.cfg -s jzhuang3_pa1.tar -t _list
+LOGIN 128.205.36.36 4545
+- cd /local/Fall_2020/jzhuang3/cse489589_assignment1/jzhuang3
+- homedir: cd /home/csdue/jzhuang3
+
+Client logged-in, server respond format:
+-*Host ip port Host ip port Host ip port & -`ip
+msg
+ip
+msg
+
+
+Server respond format for REFRESH command:
+~*host ip port host ip port host ip port & 结束
+
+Send test:
+- SEND 128.205.36.36 this is a short message that needs to be send.
+- SEND 128.205.36.36 loooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooonnnnnnnnnng message that needs to be send.

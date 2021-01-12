@@ -1,0 +1,18 @@
+[LIST:SUCCESS]
+1    euston.cse.buffalo.edu             128.205.36.34       5701    
+[LIST:END]
+[LIST:SUCCESS]
+1    embankment.cse.buffalo.edu         128.205.36.35       5000    
+2    euston.cse.buffalo.edu             128.205.36.34       5701    
+[LIST:END]
+[LIST:SUCCESS]
+1    stones.cse.buffalo.edu             128.205.36.46       4545    
+2    embankment.cse.buffalo.edu         128.205.36.35       5000    
+3    euston.cse.buffalo.edu             128.205.36.34       5701    
+[LIST:END]
+[LIST:SUCCESS]
+1    stones.cse.buffalo.edu             128.205.36.46       4545    
+2    embankment.cse.buffalo.edu         128.205.36.35       5000    
+3    highgate.cse.buffalo.edu           128.205.36.33       5499    
+4    euston.cse.buffalo.edu             128.205.36.34       5701    
+[LIST:END]

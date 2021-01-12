@@ -1,0 +1,1313 @@
+underground {/local/Fall_2020/jzhuang3/cse489589_assignment1} > ./grader/grader_                                                                                                             controller -c grader/grader.cfg -s jzhuang3_pa1.tar -t buffer
+Reading configuration file: grader/grader.cfg ...
+Initializing grading servers ...
+
+stones.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   420k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+euston.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+embankment.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   416k  0:00:01  0:00:01 --:--:--  417k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+underground.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   420k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+highgate.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+Grading for: buffer ...
+0.0
+underground {/local/Fall_2020/jzhuang3/cse489589_assignment1} > ./grader/grader_                                                                                                             controller -c grader/grader.cfg -s jzhuang3_pa1.tar -t startup
+Reading configuration file: grader/grader.cfg ...
+Initializing grading servers ...
+
+stones.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+euston.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+embankment.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+underground.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   420k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+highgate.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+Grading for: startup ...
+5.0
+underground {/local/Fall_2020/jzhuang3/cse489589_assignment1} > ./grader/grader_                                                                                                             controller -c grader/grader.cfg -s jzhuang3_pa1.tar -t author
+Reading configuration file: grader/grader.cfg ...
+Initializing grading servers ...
+
+stones.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+euston.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+embankment.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+underground.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   420k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+highgate.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+Grading for: author ...
+TRUE
+underground {/local/Fall_2020/jzhuang3/cse489589_assignment1} > ./grader/grader_                                                                                                             controller -c grader/grader.cfg -s jzhuang3_pa1.tar -t ip
+Reading configuration file: grader/grader.cfg ...
+Initializing grading servers ...
+
+stones.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   420k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+euston.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   417k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+embankment.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+underground.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+highgate.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   417k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+Grading for: ip ...
+5.0
+underground {/local/Fall_2020/jzhuang3/cse489589_assignment1} > ./grader/grader_                                                                                                             controller -c grader/grader.cfg -s jzhuang3_pa1.tar -t port
+Reading configuration file: grader/grader.cfg ...
+Initializing grading servers ...
+
+stones.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+euston.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   417k  0:00:01  0:00:01 --:--:--  418k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+embankment.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+underground.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+highgate.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+Grading for: port ...
+2.5
+underground {/local/Fall_2020/jzhuang3/cse489589_assignment1} > ./grader/grader_                                                                                                             controller -c grader/grader.cfg -s jzhuang3_pa1.tar -t _list
+Reading configuration file: grader/grader.cfg ...
+Initializing grading servers ...
+
+stones.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+euston.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+embankment.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+underground.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+highgate.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+Grading for: _list ...
+10.0
+underground {/local/Fall_2020/jzhuang3/cse489589_assignment1} > ./grader/grader_                                                                                                             controller -c grader/grader.cfg -s jzhuang3_pa1.tar -t refresh
+Reading configuration file: grader/grader.cfg ...
+Initializing grading servers ...
+
+stones.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+euston.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+embankment.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+underground.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   420k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+highgate.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   420k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+Grading for: refresh ...
+5.0
+underground {/local/Fall_2020/jzhuang3/cse489589_assignment1} > ./grader/grader_                                                                                                             controller -c grader/grader.cfg -s jzhuang3_pa1.tar -t send
+Reading configuration file: grader/grader.cfg ...
+Initializing grading servers ...
+
+stones.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+euston.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+embankment.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+underground.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+highgate.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+Grading for: send ...
+15.0
+underground {/local/Fall_2020/jzhuang3/cse489589_assignment1} > ./grader/grader_                                                                                                             controller -c grader/grader.cfg -s jzhuang3_pa1.tar -t broadcast
+Reading configuration file: grader/grader.cfg ...
+Initializing grading servers ...
+
+stones.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+euston.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+embankment.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+underground.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   420k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+highgate.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   420k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+Grading for: broadcast ...
+10.0
+underground {/local/Fall_2020/jzhuang3/cse489589_assignment1} > ./grader/grader_                                                                                                             controller -c grader/grader.cfg -s jzhuang3_pa1.tar -t block
+Reading configuration file: grader/grader.cfg ...
+Initializing grading servers ...
+
+stones.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   417k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+euston.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+embankment.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+underground.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+highgate.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+Grading for: block ...
+5.0
+underground {/local/Fall_2020/jzhuang3/cse489589_assignment1} > ./grader/grader_                                                                                                             controller -c grader/grader.cfg -s jzhuang3_pa1.tar -t blocked
+Reading configuration file: grader/grader.cfg ...
+Initializing grading servers ...
+
+stones.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+euston.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+embankment.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+underground.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+highgate.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+Grading for: blocked ...
+5.0
+underground {/local/Fall_2020/jzhuang3/cse489589_assignment1} > ./grader/grader_                                                                                                             controller -c grader/grader.cfg -s jzhuang3_pa1.tar -t unblock
+Reading configuration file: grader/grader.cfg ...
+Initializing grading servers ...
+
+stones.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+euston.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+embankment.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+underground.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+highgate.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+Grading for: unblock ...
+2.5
+underground {/local/Fall_2020/jzhuang3/cse489589_assignment1} > ./grader/grader_                                                                                                             controller -c grader/grader.cfg -s jzhuang3_pa1.tar -t logout
+Reading configuration file: grader/grader.cfg ...
+Initializing grading servers ...
+
+stones.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   420k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+euston.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+embankment.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+underground.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+highgate.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+Grading for: logout ...
+2.5
+underground {/local/Fall_2020/jzhuang3/cse489589_assignment1} > ./grader/grader_                                                                                                             controller -c grader/grader.cfg -s jzhuang3_pa1.tar -t buffer
+Reading configuration file: grader/grader.cfg ...
+Initializing grading servers ...
+
+stones.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+euston.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+embankment.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+underground.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+highgate.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+Grading for: buffer ...
+0.0
+underground {/local/Fall_2020/jzhuang3/cse489589_assignment1} > ./grader/grader_                                                                                                             controller -c grader/grader.cfg -s jzhuang3_pa1.tar -t exit
+Reading configuration file: grader/grader.cfg ...
+Initializing grading servers ...
+
+stones.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   420k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+euston.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+embankment.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+underground.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   420k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+highgate.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+Grading for: exit ...
+2.5
+underground {/local/Fall_2020/jzhuang3/cse489589_assignment1} > ./grader/grader_                                                                                                             controller -c grader/grader.cfg -s jzhuang3_pa1.tar -t statistics
+Reading configuration file: grader/grader.cfg ...
+Initializing grading servers ...
+
+stones.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   420k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+euston.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+embankment.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+underground.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+highgate.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+Grading for: statistics ...
+5.0
+underground {/local/Fall_2020/jzhuang3/cse489589_assignment1} > ./grader/grader_                                                                                                             controller -c grader/grader.cfg -s jzhuang3_pa1.tar -t exception_login
+Reading configuration file: grader/grader.cfg ...
+Initializing grading servers ...
+
+stones.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+euston.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+embankment.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      0   214k  0:00:02  0:00:02 --:--:--  215k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+underground.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+highgate.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+Grading for: exception_login ...
+2.0
+underground {/local/Fall_2020/jzhuang3/cse489589_assignment1} > ./grader/grader_                                                                                                             controller -c grader/grader.cfg -s jzhuang3_pa1.tar -t exception_send
+Reading configuration file: grader/grader.cfg ...
+Initializing grading servers ...
+
+stones.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+euston.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+embankment.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+underground.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+highgate.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+Grading for: exception_send ...
+2.0
+underground {/local/Fall_2020/jzhuang3/cse489589_assignment1} > ./grader/grader_                                                                                                             controller -c grader/grader.cfg -s jzhuang3_pa1.tar -t exception_block
+Reading configuration file: grader/grader.cfg ...
+Initializing grading servers ...
+
+stones.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+euston.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+embankment.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+underground.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+highgate.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+Grading for: exception_block ...
+2.0
+underground {/local/Fall_2020/jzhuang3/cse489589_assignment1} > ./grader/grader_                                                                                                             controller -c grader/grader.cfg -s jzhuang3_pa1.tar -t exception_unblock
+Reading configuration file: grader/grader.cfg ...
+Initializing grading servers ...
+
+stones.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+euston.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+embankment.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+underground.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   420k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+highgate.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   420k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+Grading for: exception_unblock ...
+2.0
+underground {/local/Fall_2020/jzhuang3/cse489589_assignment1} > ./grader/grader_                                                                                                             controller -c grader/grader.cfg -s jzhuang3_pa1.tar -t exception_blocked
+Reading configuration file: grader/grader.cfg ...
+Initializing grading servers ...
+
+stones.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+euston.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   417k  0:00:01  0:00:01 --:--:--  418k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+embankment.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   418k  0:00:01  0:00:01 --:--:--  419k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+underground.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  421k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+highgate.cse.buffalo.edu
+Uploading submission ...
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100  442k    0     2  100  442k      1   419k  0:00:01  0:00:01 --:--:--  420k
+OK
+Building submission ...
+OK
+Starting grading server ...
+OK
+
+Grading for: exception_blocked ...
+2.0
+underground {/local/Fall_2020/jzhuang3/cse489589_assignment1} > submit                                                                                                                       submit_487        submit_cse411     submit_cse510     submit_cse590
+submit_587        submit_cse421     submit_cse521     submit_cse591
+submit_636        submit_cse426     submit_cse522     submit_cse593
+submit_691        submit_cse435     submit_cse524     submit_cse601
+submit_cse000     submit_cse443     submit_cse524a    submit_cse605
+submit_cse000_sol submit_cse449     submit_cse524b    submit_cse610
+submit_cse115     submit_cse453     submit_cse526     submit_cse635
+submit_cse115a5   submit_cse455     submit_cse534     submit_cse636
+submit_cse115c    submit_cse460     submit_cse535     submit_cse651
+submit_cse116     submit_cse462     submit_cse543     submit_cse651B
+submit_cse241     submit_cse463     submit_cse549     submit_cse651C
+submit_cse250     submit_cse468     submit_cse555     submit_cse663
+submit_cse305     submit_cse469     submit_cse560     submit_cse664
+submit_cse321     submit_cse473     submit_cse561     submit_cse666
+submit_cse331     submit_cse474     submit_cse562     submit_cse668
+submit_cse341     submit_cse486     submit_cse563     submit_cse674
+submit_cse341a    submit_cse487     submit_cse565     submit_cse676
+submit_cse379     submit_cse489     submit_cse568     submit_cse691
+submit_cse379_bak submit_cse490     submit_cse573     submit_cse700
+submit_cse380     submit_cse493     submit_cse574     submit_cse999
+submit_cse408     submit_cse499     submit_cse586     submit_eas240
+submit_cse410     submit_cse505     submit_cse587     submit_lin467
+submit_cse410ai   submit_cse508     submit_cse589     submit_lin567
+underground {/local/Fall_2020/jzhuang3/cse489589_assignment1} > submit_cse48
+submit_cse486 submit_cse487 submit_cse489
+underground {/local/Fall_2020/jzhuang3/cse489589_assignment1} > submit_cse489 jz                                                                                                             
+jzhuang3/         jzhuang3_pa1.tar
+underground {/local/Fall_2020/jzhuang3/cse489589_assignment1} > submit_cse489 jz                                                                                                             huang3_pa1.tar
+Submission of "jzhuang3_pa1.tar" successful.
+underground {/local/Fall_2020/jzhuang3/cse489589_assignment1} > date
+Wed Oct 21 02:06:47 EDT 2020
+underground {/local/Fall_2020/jzhuang3/cse489589_assignment1} >

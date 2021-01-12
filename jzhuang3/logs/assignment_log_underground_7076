@@ -1,0 +1,45 @@
+[RELAYED:SUCCESS]
+msg from:128.205.36.34, to:128.205.36.46
+[msg]:MESSAGE 1
+[RELAYED:END]
+[statis:ERROR]
+[statis:END]
+[STATISTICS:SUCCESS]
+1    stones.cse.buffalo.edu             0       1       logged-in
+2    euston.cse.buffalo.edu             1       0       logged-in
+[STATISTICS:END]
+[RELAYED:SUCCESS]
+msg from:128.205.36.34, to:128.205.36.46
+[msg]:MESSAGE 12
+[RELAYED:END]
+[RELAYED:SUCCESS]
+msg from:128.205.36.34, to:128.205.36.46
+[msg]:MESSAGE 13
+[RELAYED:END]
+[RELAYED:SUCCESS]
+msg from:128.205.36.34, to:128.205.36.46
+[msg]:MESSAGE 14
+[RELAYED:END]
+[RELAYED:SUCCESS]
+msg from:128.205.36.34, to:128.205.36.46
+[msg]:MESSAGE 15
+[RELAYED:END]
+[STATISTICS:SUCCESS]
+1    stones.cse.buffalo.edu             0       5       logged-out
+2    euston.cse.buffalo.edu             5       0       logged-in
+[STATISTICS:END]
+[BLOCKED:ERROR]
+[BLOCKED:END]
+[BLOCKED:ERROR]
+[BLOCKED:END]
+[BLOCKED:ERROR]
+[BLOCKED:END]
+[LIST:SUCCESS]
+1    euston.cse.buffalo.edu             128.205.36.34       4523    
+[LIST:END]
+[LIST:SUCCESS]
+[LIST:END]
+[E:ERROR]
+[E:END]
+[STATISTICS:SUCCESS]
+[STATISTICS:END]

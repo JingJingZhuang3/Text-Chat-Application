@@ -1,0 +1,89 @@
+FILE * pFile;
+pFile = fopen ("/tmp/myfile.txt","w");
+
+fprintf(server_op, "[%s:SUCCESS]\n", input_ptr);
+fprintf(server_op, "PORT:%d\n", port);
+fprintf(server_op, "[%s:END]\n", input_ptr);
+fflush(server_op);
+
+fprintf(server_op, "[%s:ERROR]\n", input_ptr);
+fprintf(server_op, "[%s:END]\n", input_ptr);
+fflush(server_op);
+
+fprintf(client_op, "[%s:SUCCESS]\n", ptr2);
+fprintf(client_op, "[%s:END]\n", ptr2);
+fflush(client_op);
+bool comp_port(const info &lhs, const info &rhs)
+{
+    return lhs.port_num < rhs.port_num;
+}
+bool comp_block(const block &lhs, const block &rhs)
+{
+    return lhs.port_num < rhs.port_num;
+}
+bool vaildate_ip(char *ip)
+{
+    struct sockaddr_in addr;
+    int vaild = inet_pton(AF_INET, ip, &(addr.sin_addr));
+    return vaild != 0;
+}
+
+bool is_exist(char *ip, vector<info> list)
+{
+    bool check = false;
+    for (auto &c : list)
+    {
+        if (strcmp(ip, c.ip) == 0)
+        {
+            check = true;
+            break;
+        }
+    }
+    return check;
+}
+
+bool is_blocked(char *to_c, char *from_c, vector<info> list)
+{
+    bool check = false;
+    for (auto &c : list)
+    {
+        if (strcmp(to_c, c.ip) == 0)
+        {
+            /* check receiver's block list*/
+            for (auto &b : c.block_list)
+            {
+                if (strcmp(b.ip, from_c) == 0)
+                {
+                    /* sender is in the block list*/
+                    check = true;
+                    break;
+                }
+            }
+        }
+    }
+    return check;
+}
+
+string get_hostname(char *ip, vector<info> list)
+{
+    for (auto &c : list)
+    {
+        if (strcmp(ip, c.ip) == 0)
+        {
+            return c.host_name;
+        }
+    }
+    return "";
+}
+
+long get_port(char *ip, vector<info> list)
+{
+    for (auto &c : list)
+    {
+        if (strcmp(ip, c.ip) == 0)
+        {
+            return c.port_num;
+        }
+    }
+    return 0;
+}

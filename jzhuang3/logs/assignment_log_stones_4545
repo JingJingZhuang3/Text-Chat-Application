@@ -1,0 +1,21 @@
+[LOGIN:SUCCESS]
+[LOGIN:END]
+[LIST:SUCCESS]
+1    stones.cse.buffalo.edu             128.205.36.46       4545    
+[LIST:END]
+[REFRESH:SUCCESS]
+[REFRESH:END]
+[ILST:ERROR]
+[ILST:END]
+[LIST:SUCCESS]
+1    stones.cse.buffalo.edu             128.205.36.46       4545    
+2    underground.cse.buffalo.edu        128.205.36.36       6382    
+[LIST:END]
+[SEND:SUCCESS]
+[SEND:END]
+[SEND:SUCCESS]
+[SEND:END]
+[SEND:SUCCESS]
+[SEND:END]
+[SEND:SUCCESS]
+[SEND:END]
